@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SAINRISME Marick
 
 ## Formation (actuelle)
@@ -76,4 +76,3 @@ Après mon **bac STI2D, spécialité SIN**, je souhaite poursuivre mes études e
 ## Contact
 
 * Email : *sainrisme.marick@gmail.com*
->>>>>>> dafe963 (1er commit)
