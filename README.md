@@ -55,6 +55,12 @@ Après mon **bac STI2D, spécialité SIN**, je souhaite poursuivre mes études e
 * Développement de projets
 * Travail en équipe
 
+## Logiciels et outils
+
+* ProfiLab
+* Visual Studio Code
+* Arduino
+
 ## Langues 
 
 * Français
