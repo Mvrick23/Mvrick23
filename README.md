@@ -25,9 +25,9 @@ Après mon **bac STI2D, spécialité SIN**, je souhaite poursuivre mes études e
 
 ## Langues
 
-🇫🇷 Français
-🇭🇹 Créole haïtien
-🇬🇧 Anglais
+| 🇫🇷 Français | 🇭🇹 Créole haïtien | 🇬🇧 Anglais |
+|:---:|:---:|:---:|
+| <img src="images/fra.png" width="40"> | <img src="images/hai.png" width="40"> | <img src="images/uk.png" width="40"> |
 
 ## Centres d'intérêt
 
