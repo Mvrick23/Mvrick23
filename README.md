@@ -19,17 +19,9 @@ Après mon **bac STI2D, spécialité SIN**, je souhaite poursuivre mes études e
 
 ## Logiciels et outils
 
-### ProfiLab
-
-<img src="images/profi.png" alt="ProfiLab" width="150">
-
-### Visual Studio Code
-
-<img src="images/vscode.png" alt="Visual Studio Code" width="150">
-
-### Arduino
-
-<img src="images/ard.png" alt="Arduino" width="150">
+|                   ProfiLab                  |             Visual Studio Code            |                   Arduino                  |
+| :-----------------------------------------: | :---------------------------------------: | :----------------------------------------: |
+| <img src="images/profi.png" width="120"> | <img src="images/vscode.png" width="120"> | <img src="images/ard.png" width="120"> |
 
 ## Langues 
 
