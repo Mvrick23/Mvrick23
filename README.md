@@ -23,18 +23,14 @@ Après mon **bac STI2D, spécialité SIN**, je souhaite poursuivre mes études e
 | :-----------------------------------------: | :---------------------------------------: | :----------------------------------------: |
 | <img src="images/profi.png" width="120"> | <img src="images/vscode.png" width="120"> | <img src="images/ard.png" width="120"> |
 
-## Langues 
+## Langues
 
-* Français
-* Créole haïtien
-* Anglais
+🇫🇷 Français
+🇭🇹 Créole haïtien
+🇬🇧 Anglais
 
 ## Centres d'intérêt
 
 * Jeux vidéo
 * Basketball
 * Musique
-
-## Contact
-
-* Email : *sainrisme.marick@gmail.com*
